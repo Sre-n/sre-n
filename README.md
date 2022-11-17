@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **srenisaji5819@gmail.com**
 
+
+<p align="center"> <img width="75%" src="https://user-images.githubusercontent.com/80174214/147950792-fbd3df37-5ea9-454b-81c9-2cc82f7e00f1.gif"
+alt="Marceline"/> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sreni saji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreni saji" height="30" width="40" /></a>
