@@ -54,9 +54,9 @@ alt="Marceline"/> </p>
   </a>
 </p>
 
-<p align="center">
+
 ![Sreni Saji Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sre-n&show_icons=true&include_all_commits=true&theme=radical)
-</p>
+
 
 <h1 align="left">GitHub Statistics</h1>
 
