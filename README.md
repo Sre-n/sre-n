@@ -54,8 +54,6 @@ alt="Marceline"/> </p>
 </p>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Sre-n&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <h1 align="left">GitHub Statistics</h1>
@@ -67,4 +65,6 @@ alt="Marceline"/> </p>
 </a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Sre&icon=0&color=1)](https://visitcount.itsvg.in)
+<h1 align="left">Profile Views</h1>
+
+![](https://komarev.com/ghpvc/?username=Sre-n&color=green)
