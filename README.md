@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 
 
-
 - 🔭 I’m currently working on **UI/UX**
 
 - 🌱 I’m currently learning **Flutter**
@@ -55,7 +54,8 @@ alt="Marceline"/> </p>
 </p>
 
 
-![Sreni Saji Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sre-n&show_icons=true&include_all_commits=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=Sre-n&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <h1 align="left">GitHub Statistics</h1>
@@ -66,3 +66,5 @@ alt="Marceline"/> </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sre-n&theme=tokyonight&layout=compact&" />
 </a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=Sre&icon=0&color=1)](https://visitcount.itsvg.in)
