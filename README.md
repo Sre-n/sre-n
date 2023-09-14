@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 </div>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sre-n&color=green" alt="GitHub Profile Views" />
+</div>
+
 
 
 - 🔭 I’m currently working on **UI/UX**
@@ -56,15 +60,17 @@ alt="Marceline"/> </p>
 
 
 
-<h1 align="left">GitHub Statistics</h1>
+<div align="center">
+  <h1>GitHub Statistics</h1>
+  <a href="[https://github.com/Sre-n](https://github.com/ashutosh00710/github-readme-activity-graph)">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sre-n&theme=github-compact" alt="GitHub Activity Graph" />
+  </a>
+</div>
 
-[![Sre-n's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sre-n&theme=github)](https://github.com/Sre-n/github-readme-activity-graph)
 <p align="center">
 <a href="https://github.com/Sre-n">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sre-n&theme=tokyonight&layout=compact&" />
 </a>
 </p>
 
-<h1 align="left">Profile Views</h1>
 
-![](https://komarev.com/ghpvc/?username=Sre-n&color=green)
